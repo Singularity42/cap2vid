@@ -7,11 +7,13 @@ Tensorflow implementation for the paper [Attentive Semantic Video Generation usi
   <figcaption>Proposed network architecture for attentive semantic video generation with captions. </figcaption>
 </figure>
 
+## Results
+
 | <img src="http://i.imgur.com/Gvsbu57.gif" width="100%">|<img src="http://i.imgur.com/UaslWci.gif" width="100%">| 
 | ---------------------| ---------------------|
 | digit 6 is moving up and down | digit 3 is moving left and right | 
 
-## Example of Spatio Temporal Style Transfer
+### Example of Spatio Temporal Style Transfer
 
 | <img src="http://i.imgur.com/0QtyPSj.gif" width="70%">| 
 | ---------------------|
