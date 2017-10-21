@@ -1,5 +1,12 @@
 # Attentive Semantic Video Generation using Captions
 
+Tensorflow implementation for the paper [Attentive Semantic Video Generation using Captions](https://arxiv.org/abs/1708.05980) by Tanya Marwah*, Gaurav Mittal* and Vineeth N. Balasubramanian accepted at [International Conference on Computer Vision 2017 (ICCV 2017)](http://iccv2017.thecvf.com/) (*Equal Contribution).
+
+<figure>
+  <img src="https://user-images.githubusercontent.com/28288044/31856492-58956022-b690-11e7-9acd-31076e91d50a.jpg" width="100%">
+  <figcaption>Proposed network architecture for attentive semantic video generation with captions. </figcaption>
+</figure>
+
 | <img src="http://i.imgur.com/Gvsbu57.gif" width="100%">|<img src="http://i.imgur.com/UaslWci.gif" width="100%">| 
 | ---------------------| ---------------------|
 | digit 6 is moving up and down | digit 3 is moving left and right | 
