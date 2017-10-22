@@ -10,8 +10,12 @@ Tensorflow implementation for the paper [Attentive Semantic Video Generation usi
 ## Results
 
 | <img src="http://i.imgur.com/Gvsbu57.gif" width="100%">|<img src="http://i.imgur.com/UaslWci.gif" width="100%">| 
-| ---------------------| ---------------------|
+| :---------------------:| :---------------------:|
 | digit 6 is moving up and down | digit 3 is moving left and right | 
+
+|<img src="https://user-images.githubusercontent.com/28288044/31858691-12f254d0-b6cc-11e7-9f67-1b8aaa457028.gif" width="35%">|
+| :-------: |
+| person 4 is walking left to right |
 
 ### Example of Spatio Temporal Style Transfer
 
@@ -22,4 +26,8 @@ Tensorflow implementation for the paper [Attentive Semantic Video Generation usi
 | <img src="http://i.imgur.com/usaRTaD.gif" width="100%">|<img src="http://i.imgur.com/JiUM3HY.gif" width="100%">| 
 | ---------------------| ---------------------|
 | **Caption 1**: digit 4 is moving up and down **Caption 2**: digit 9 is moving left and right | **Caption 1**: digit 5 is moving left and right **Caption 2**: digit 9 is moving up and down |
+
+|<img src="https://user-images.githubusercontent.com/28288044/31858692-12fd255e-b6cc-11e7-9da7-b85c1f0e54fc.gif" width="35%">|
+| :-------: |
+| **Caption 1**: person 10 is walking left to right **Caption 2**: person 10 is walking right to left |
 
